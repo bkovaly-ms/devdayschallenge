@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>time</key>
+		<string>08:30 - 9:20</string>
+		<key>title</key>
+		<string>Breakfast</string>
+		<key>presenters</key>
+		<string>MS Catering</string>
+		<key>description</key>
+		<string>Coders require sustenance. Make sure you&apos;ve got yours!</string>
+	</dict>
+	<dict>
+		<key>time</key>
+		<string>09:20 - 9:30</string>
+		<key>title</key>
+		<string>Opening Remarks</string>
+		<key>presenters</key>
+		<string>Brandon Kovaly</string>
+		<key>description</key>
+		<string>What is a conference without some sort of opening statement? Come listen to me flap my gums for a few minutes before giving up the stage to the people that you&apos;re actually here to see.</string>
+	</dict>
+	<dict>
+		<key>time</key>
+		<string>09:30 - 10:30</string>
+		<key>title</key>
+		<string>The Next Evolution of HockeyApp: Mobile Center</string>
+		<key>presenters</key>
+		<string>Ryan Salva (HockeyApp)</string>
+		<key>description</key>
+		<string>Within the last three years, Microsoft has acquired or built some of the fastest growing developer tools for continuous delivery and monitoring – “DevOps” services like HockeyApp, Xamarin Test Cloud, Capptain, and CodePush. This year, Microsoft is combining those businesses into a new service called Visual Studio Mobile Center. Learn how you, as an iOS developer, can leverage Mobile Center to fully automate your release pipeline, builds, tests, and beta distribution. You&apos;ll also explore how to integrate the Mobile Center SDK to measure user engagement and product health in the wild. We’ll show how you to:
+
+Build your apps automatically with every pull request
+Test apps on thousands of real-world devices and 400+ configurations
+Automatically distribute passing builds to beta testers
+Monitor production apps for crashes and bugs to prioritize fixes
+Collect mobile analytics and understand your users
+Connect to a cloud backend, adding critical cloud services, like offline data sync, tabular storage, and user authentication, and scaling on-demand
+Finally, you’ll get a sneak-peek of what’s-to-come in our roadmap so you have an opportunity to provide feedback and help shape the future of mobile development for everyone.</string>
+	</dict>
+	<dict>
+		<key>time</key>
+		<string>10:30 - 11:00</string>
+		<key>title</key>
+		<string>LayoutKit &amp; Autolayout Performance</string>
+		<key>presenters</key>
+		<string>Sergei Taguer (LinkedIn)</string>
+		<key>description</key>
+		<string>AutoLayout wasn’t fast enough, so the folks at LinkedIn built LayoutKit - a high performance alternative to autolayout. Hear about what issues they had with autolayout and what their recently open sourced framework can do for you.</string>
+	</dict>
+	<dict>
+		<key>time</key>
+		<string>11:00 - 12:00</string>
+		<key>title</key>
+		<string>Speed up iOS Releases</string>
+		<key>presenters</key>
+		<string>Keqiu Hu (LinkedIn)</string>
+		<key>description</key>
+		<string>Wanting to ship your iOS app faster? Getting frustrated on scaling iOS continuous delivery to support hundreds of iOS engineers? Join us and learn how LinkedIn revolutionized its continous delivery pipeline, got rid of manual testing, and sped up its release cycle from monthly to weekly.</string>
+	</dict>
+	<dict>
+		<key>time</key>
+		<string>12:00 - 13:00</string>
+		<key>title</key>
+		<string>Lunch</string>
+		<key>presenters</key>
+		<string>MS Catering</string>
+		<key>description</key>
+		<string>Build your own tacos! Meet the other attendees and taco about your favorite things iOS.</string>
+	</dict>
+	<dict>
+		<key>time</key>
+		<string>13:00 - 13:30</string>
+		<key>title</key>
+		<string>Customer Development</string>
+		<key>presenters</key>
+		<string>Alex Duong (Outlook Engineering), Anuj Tripathi (Outlook Engineering)</string>
+		<key>description</key>
+		<string>The last time a customer complained about your app, it&apos;s entirely possible the complaint had to slowly make its way from a service engineer, to a pm, to your dev lead, and then finally to you. The team behind Shiftr decided to take a customer first approach when developing their app and had their developers frequently talking 1:1 with customers. Come find out how the customer first approach ensured the success of their app.</string>
+	</dict>
+	<dict>
+		<key>time</key>
+		<string>13:30 - 14:30</string>
+		<key>title</key>
+		<string>Xamarin 101</string>
+		<key>presenters</key>
+		<string>James Montenagmo (Xamarin)</string>
+		<key>description</key>
+		<string>Come learn everything from the basics to how the acquisition has impacted the development of Xamarin.</string>
+	</dict>
+	<dict>
+		<key>time</key>
+		<string>14:30 - 15:30</string>
+		<key>title</key>
+		<string>Cross Platform Development</string>
+		<key>presenters</key>
+		<string>Alexander Mazukabzov (Sharepoint), Martin Beechen (Sharepoint), Paul Borza (Bing), Chibi Vikramathithan (Azure), Mike Schreiber (Sway)</string>
+		<key>description</key>
+		<string>Admit it. You wish you could write one set of code and have it run on multiple platforms. It’s the pipe dream of every developer. But is it worth it? Come listen to developers that have used frameworks such as ReactNative, Xamarin, QT, or something else entirely. Hear their thoughts! Pick their brains!</string>
+	</dict>
+</array>
+</plist>

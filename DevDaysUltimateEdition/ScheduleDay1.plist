@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>time</key>
+		<string>08:30 - 09:20</string>
+		<key>title</key>
+		<string>Breakfast</string>
+		<key>presenters</key>
+		<string></string>
+		<key>description</key>
+		<string>Coders require sustenance. Make sure you&apos;ve got yours!</string>
+	</dict>
+	<dict>
+		<key>time</key>
+		<string>09:20 - 9:30</string>
+		<key>title</key>
+		<string>Opening Remarks</string>
+		<key>presenters</key>
+		<string>Brandon Kovaly</string>
+		<key>description</key>
+		<string>What is a conference without some sort of opening statement? Come listen to me flap my gums for a few minutes before giving up the stage to the people that you&apos;re actually here to see.</string>
+	</dict>
+	<dict>
+		<key>time</key>
+		<string>09:30 - 10:30</string>
+		<key>title</key>
+		<string>Agile iOS Development at Scale</string>
+		<key>presenters</key>
+		<string>Ogden Kent (Outlook Client Engineering)</string>
+		<key>description</key>
+		<string>Learn how Outlook on iOS, with 10+ million daily active users, maintains a rapid ship and development cadence. Learn the juicy details for how they leverage weekly sprints, continuous integration, feature flighting, A/B testing, and more.</string>
+	</dict>
+	<dict>
+		<key>time</key>
+		<string>10:30 - 11:00</string>
+		<key>title</key>
+		<string>Migrating to Swift - Lessons Learned</string>
+		<key>presenters</key>
+		<string>Jacek Suliga (LinkedIn)</string>
+		<key>description</key>
+		<string>Swift might be new and fancy, but it&apos;s rapidly evolving nature and an existing Objective-C codebase may have deterred you from making the switch. Come listen to the LinkedIn team talk about their migration to Swift, and lessons learned in the process.</string>
+	</dict>
+	<dict>
+		<key>time</key>
+		<string>11:00 - 12:00</string>
+		<key>title</key>
+		<string>App Release</string>
+		<key>presenters</key>
+		<string>Victor Velazquez (PRSS), David Falls (PRSS), JoAnn Zheng (PRSS), Miriam Daniel (RSD), Alec Muzzy (RSD), Derek Snook (RSD)</string>
+		<key>description</key>
+		<string>You’ve finished your app, and now you want to release it. Come listen to the mysterious people behind the IPHNDEV DL tell you everything you need to know about getting your app into the app store, including common mistakes and how to avoid them.</string>
+	</dict>
+	<dict>
+		<key>time</key>
+		<string>12:00 - 13:00</string>
+		<key>title</key>
+		<string>Lunch</string>
+		<key>presenters</key>
+		<string>MS Catering</string>
+		<key>description</key>
+		<string>Build your own tacos! Meet the other attendees and taco about your favorite things iOS.</string>
+	</dict>
+	<dict>
+		<key>time</key>
+		<string>13:00 - 14:00</string>
+		<key>title</key>
+		<string>Auth</string>
+		<key>presenters</key>
+		<string>Brandon Werner (Identity Dev Platform)</string>
+		<key>description</key>
+		<string>Do you or will you use authentication in your app? Do you really know how it works? After this deep dive, you’ll be an expert. An authentic expert!</string>
+	</dict>
+	<dict>
+		<key>time</key>
+		<string>14:00 - 15:00</string>
+		<key>title</key>
+		<string>Sharing is Caring</string>
+		<key>presenters</key>
+		<string>Everybody</string>
+		<key>description</key>
+		<string>Let’s face it, if it weren’t for open source code we’d probably all still be working on our first application. Let’s talk about our favorite open source libraries and sharing code at Microsoft. Have you written something you’d like other people to use? Do you have suggestions for how we can do better at sharing code at Microsoft? Any and all teams are allowed to pitch in for this session.</string>
+	</dict>
+	<dict>
+		<key>time</key>
+		<string>15:00 - 17:00</string>
+		<key>title</key>
+		<string>Drinks! Network!
+
+</string>
+		<key>presenters</key>
+		<string></string>
+		<key>description</key>
+		<string>What better way to finish up the first day of a developer conference than drinks and networking! Have a beer. Meet other iOS enthusiasts around the company.</string>
+	</dict>
+	<dict>
+		<key>time</key>
+		<string>15:30 - 16:30
+
+</string>
+		<key>title</key>
+		<string>Developer Challenge</string>
+		<key>presenters</key>
+		<string>Brandon Kovaly</string>
+		<key>description</key>
+		<string>Prepare your brains. Ready your fingers. This developer challenge will test your iOS coding prowess. Is it mere coincident that this challenge starts after the drinking or is this a scientific experiment to prove the existance of the Ballmer&apos;s Peak?</string>
+	</dict>
+</array>
+</plist>
